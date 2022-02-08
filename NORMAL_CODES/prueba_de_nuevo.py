@@ -1,0 +1,10 @@
+vocals=list(str(input("Escriba las vocales: ")))
+x_a=0
+x_e=0
+x_i=0
+x_o=0
+x_u=0
+length=len(vocals)
+timer=0
+while length-timer !=0:
+    timer=timer+1

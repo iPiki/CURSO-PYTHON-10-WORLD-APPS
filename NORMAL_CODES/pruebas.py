@@ -1,0 +1,8 @@
+username=str(["INDIANA","SI"])
+x=username.lower()
+y=str.lower(username)
+z=username.replace("INDIANA","JEAN")
+print(type(z))
+print(x)
+print(y)
+print(z)

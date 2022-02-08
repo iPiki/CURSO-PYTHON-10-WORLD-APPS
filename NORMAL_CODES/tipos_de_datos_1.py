@@ -1,0 +1,9 @@
+x=10
+y="10"
+z=10.1
+suma_integer=x+x
+suma_string=y+y
+suma_float=z+z
+print(suma_integer,suma_string,suma_float)
+print(type(x),type(y),type(z))
+print(type(suma_integer),type(suma_string),type(suma_float))
